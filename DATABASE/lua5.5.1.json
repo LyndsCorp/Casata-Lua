@@ -1,0 +1,21 @@
+{
+  "name": "lua5.5.1",
+  "version": "5.5.1",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "casata": [],
+  "pip": [],
+  "size": "554,2 KiB",
+  "description": "Intérprete y compilador de Lua 5.5.1",
+  "usage": "`lua5.5.1 script.lua`, `luac5.5.1 entrada.lua -o salida.luac`",
+  
+  "project": "The Lua Programming Language",
+  "is_open_source": true,
+  "source_code": "https://lua.org/ftp/lua-5.5.1.tar.gz",
+  "license": "MIT",
+  "origin": "PUC-Rio, Brasil",
+  "developer": "Lua.org, PUC-Rio",
+  "copyright_title": "Lua.org, PUC-Rio",
+  "copyright_year": "1994–2026"
+}
