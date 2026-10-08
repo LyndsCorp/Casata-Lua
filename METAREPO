@@ -1,5 +1,6 @@
 {
   "name": "Lua",
   "metarepo": "https://raw.githubusercontent.com/LyndsCorp/Casata-Lua/main/METAREPO",
-  "lua5.5": "https://raw.githubusercontent.com/LyndsCorp/Casata-Lua/main/SINGREPOS/lua5.5.json"
+  "lua5.5": "https://raw.githubusercontent.com/LyndsCorp/Casata-Lua/main/SINGREPOS/lua5.5.json",
+  "lua5.5.1": "https://raw.githubusercontent.com/LyndsCorp/Casata-Lua/main/SINGREPOS/lua5.5.1.json"
 }
