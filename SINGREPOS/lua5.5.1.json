@@ -1,0 +1,5 @@
+{
+  "name": "lua5.5.1",
+  "download_url": "https://github.com/LyndsCorp/Casata-Lua/releases/download/Lua/lua_5.5.1_amd64.tar.xz.casata",
+  "data_url": "https://raw.githubusercontent.com/LyndsCorp/Casata-Lua/main/DATABASE/lua5.5.1.json"
+}
